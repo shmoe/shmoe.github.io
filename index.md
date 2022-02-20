@@ -182,4 +182,6 @@ In reviewing my work on this artifact, I realized that not only are passwords st
 
 ## Informal Code Review
 
-Prior to enhancing my projects in preparation for creating this portfolio I performed an informal code review of my TI CCS3320S project. It can be viewed at the following link: https://youtu.be/jwEd2AS3PZI *Warning: audio is very quiet due to hardware limitations*
+Prior to enhancing my projects in preparation for creating this portfolio I performed an informal code review of my TI CCS3320S project. It can be viewed at the following link: https://youtu.be/jwEd2AS3PZI 
+
+*Warning: audio is very quiet due to hardware limitations*
