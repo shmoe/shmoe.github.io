@@ -14,7 +14,7 @@ Lastly, in working with embedded systems and reverse engineering software I have
 
 To showcase my skills with data structures and algorithms I chose a project that I worked on in my Computer Graphics and Visualization class that I titled "SNHU-CS-330-3D-Scene." This project is written in C++ and makes use of the OpenGL graphics programming API in order to render an interactive 3D scene that implements 3D models, textures, materials and full Phong lighting.
 
-![3D Rendered Scene Screenshot](https://github.com/shmoe/SNHU-CS-330-3D-Scene/blob/master/img/3D%20Scene%20Demo%201.png)
+![3D Rendered Scene Screenshot](https://github.com/shmoe/SNHU-CS-330-3D-Scene/raw/master/img/3D%20Scene%20Demo%201.png)
 
 This project is perfect to showcase my proficiency with data structures because in working with OpenGL I had to work with many traditional data structures, such as lists, arrays and matrices, as well as custom data structures, such as the vertex and Model structures I implemented and various GLFW data structures like Vertex Array Objects.
 
