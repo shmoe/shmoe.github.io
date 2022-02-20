@@ -171,3 +171,11 @@ while(1) {
 ```
 
 ## Project 3, on databases: [SNHU-CS-360 Fitness App (Android)](https://github.com/shmoe/SNHU-CS-360)
+
+The artifact chosen to showcase my proficiency with databases is an Android application created in my Mobile App Architecture and Programming class. The application is a simple weight tracker app that keeps a list of weights on dates associated with each user. It also features a log in screen that checks username and passwords. The app stores data such as weights, dates, user credentials and their relations in a local SQL database. In this way it showcases my ability to utilize databases to not only store data but also utilize the relational nature of SQL to represent associations between data.
+
+![Android Fitness App Screenshot 1](https://github.com/shmoe/SNHU-CS-360/raw/master/res/Screenshot_1.png)
+
+![Android Fitness App Screenshot 2](https://github.com/shmoe/SNHU-CS-360/raw/master/res/Screenshot_2.png)
+
+In reviewing my work on this artifact, I realized that not only are passwords stored on the database in plain text, which makes them vulnerable to data mining, the SQL queries I used are vulnerable to injection attacks. To solve this and showcase my ability to identify and remedy security flaws I first implemented password salting and hashing, which allows passwords to be checked without storing them in plaintext. I then converted all of my SQL queries into stored procedures, which effectively removes the possibility of SQL injection. Finally to improve the presentation of my work in the ePortfolio I tweaked the application’s UI to look more professional and less like placeholder art. I also added screenshots of the application in action to the repository’s README markdown file.
