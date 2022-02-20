@@ -57,10 +57,10 @@ bottom_middle.nz = 0.f;
 {
   struct vertex to_push;
 
-  float lengthInv = 1.f / radius;    // multiply x,y,z by this to normalize a vertex vector
+  float lengthInv = 1.f / radius;  // multiply x,y,z by this to normalize a vertex vector
 
   float sector_step = 2 * PI / sector_count;
-  float sector_angle;    // theta
+  float sector_angle;     // theta
 
   /**
    * Iterate through sectors
